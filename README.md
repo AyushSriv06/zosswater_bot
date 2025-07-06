@@ -1,1 +1,1 @@
-# zosswater_bot
+# zoss_bot
